@@ -1,5 +1,5 @@
 
-# luv2code-test-project-solutions-demo
+# luv2code-unit-test-mvc-web-app
 
 Welcome to the GitHub repository dedicated to your learning journey in Java testing, inspired by the Udemy course "Spring Boot Unit Testing with JUnit, Mockito, and MockMvc."
 
